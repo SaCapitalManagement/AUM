@@ -1,0 +1,19 @@
+{
+  "strategy": "breakout",
+  "equity": [],
+  "stats": {
+    "Drawdown": -23.54,
+    "Sharpe": 1.17,
+    "Expectancy": 21.95,
+    "NetProfit": 11076576.0,
+    "Trades": 167,
+    "MAR": 0.92,
+    "PctWins": 61.68,
+    "MaxExposure": 99.74
+  },
+  "extra": {
+    "sum_commission": 12219.96,
+    "sum_dividends": 740330.93,
+    "avg_bars": 120.47904191616766
+  }
+}
