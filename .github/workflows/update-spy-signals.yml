@@ -1,0 +1,39 @@
+name: Update SPY Signals
+
+on:
+  # Every weekday (Mon-Fri) at 21:05 UTC = 16:05 ET (~1 h after market close)
+  schedule:
+    - cron: "5 21 * * 1-5"
+
+  # Also allow manual trigger: GitHub → Actions tab → "Run workflow"
+  workflow_dispatch:
+
+jobs:
+  update-signals:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit & push spy_signals.json
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install yfinance pandas
+
+      - name: Run update script
+        run: python update_spy_signals.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add spy_signals.json
+          git diff --cached --quiet || git commit -m "chore: update SPY signals $(date -u +%Y-%m-%d) [skip ci]"
+          git push
