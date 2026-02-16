@@ -4,11 +4,10 @@
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 690.67,
-        "rsi2": 21.99,
-        "sma200": 637.4,
-        "news":  "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Geopolitical Tensions Loom While Investors Still Await Fed Rate Cut"
-    }
-
+        "last_close": 681.75,
+        "rsi2": 15.96,
+        "sma200": 646.0,
+        "news": "IonQ Stock Falls 2.5% This Week on Short-Seller Report and Legal Probe Converge"
+    },
+    "updated_at": "2026-02-16T03:59:02Z"
 }
-
