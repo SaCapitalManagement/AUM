@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 689.43,
-        "rsi2": 82.6,
-        "sma200": 648.59,
-        "news": "Pre-Markets Dip on GDP & PCE Figures"
+        "last_close": 682.39,
+        "rsi2": 28.16,
+        "sma200": 649.23,
+        "news": "Real Estate Stocks Rise: Realty Income (O) & Simon Property (SPG) Lead Last Week\u2019s Winners"
     },
-    "updated_at": "2026-02-20T21:36:40Z"
+    "updated_at": "2026-02-23T21:58:02Z"
 }
