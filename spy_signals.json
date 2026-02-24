@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 682.39,
-        "rsi2": 28.16,
-        "sma200": 649.23,
-        "news": "Real Estate Stocks Rise: Realty Income (O) & Simon Property (SPG) Lead Last Week\u2019s Winners"
+        "last_close": 687.35,
+        "rsi2": 62.75,
+        "sma200": 649.89,
+        "news": "21shares Spot SUI ETF (Nasdaq: TSUI) to Begin Trading on Tuesday Feb 24th, Expanding U.S. Access to Sui"
     },
-    "updated_at": "2026-02-23T21:58:02Z"
+    "updated_at": "2026-02-24T21:49:14Z"
 }
