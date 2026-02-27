@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "rsi_2_below_30": 1,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 689.3,
-        "rsi2": 48.43,
-        "sma200": 651.2,
-        "news": "Csenge Advisory Group Increased Its LMBS Stake in Q4"
+        "last_close": 685.99,
+        "rsi2": 28.32,
+        "sma200": 651.74,
+        "news": "Mid-Cap ETFs in a High Momentum: Here's Why"
     },
-    "updated_at": "2026-02-26T21:43:32Z"
+    "updated_at": "2026-02-27T21:39:31Z"
 }
