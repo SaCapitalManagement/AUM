@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 685.99,
-        "rsi2": 28.32,
-        "sma200": 651.74,
-        "news": "Mid-Cap ETFs in a High Momentum: Here's Why"
+        "last_close": 686.38,
+        "rsi2": 34.71,
+        "sma200": 652.27,
+        "news": "BOTT Surged 114% but Its Korean and Chinese Holdings Carry Serious Risks"
     },
-    "updated_at": "2026-02-27T21:39:31Z"
+    "updated_at": "2026-03-02T21:47:25Z"
 }
