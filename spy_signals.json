@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 686.38,
-        "rsi2": 34.71,
-        "sma200": 652.27,
-        "news": "BOTT Surged 114% but Its Korean and Chinese Holdings Carry Serious Risks"
+        "last_close": 680.33,
+        "rsi2": 9.22,
+        "sma200": 652.75,
+        "news": "These S&P 500 Dividend Stocks Are Quietly Crushing the Index \u2014 And Paying You Monthly"
     },
-    "updated_at": "2026-03-02T21:47:25Z"
+    "updated_at": "2026-03-03T21:46:23Z"
 }
