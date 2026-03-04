@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 680.33,
-        "rsi2": 9.22,
-        "sma200": 652.75,
-        "news": "These S&P 500 Dividend Stocks Are Quietly Crushing the Index \u2014 And Paying You Monthly"
+        "last_close": 685.13,
+        "rsi2": 58.07,
+        "sma200": 653.25,
+        "news": "BCA Research upgrades Canada and Australia amid Hormuz closure"
     },
-    "updated_at": "2026-03-03T21:46:23Z"
+    "updated_at": "2026-03-04T21:47:31Z"
 }
