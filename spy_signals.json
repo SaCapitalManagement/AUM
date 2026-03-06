@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "rsi_2_below_30": 1,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 681.31,
-        "rsi2": 31.28,
-        "sma200": 653.71,
-        "news": "The Top High Yield ETFs Every Retiree Should Own"
+        "last_close": 672.38,
+        "rsi2": 9.91,
+        "sma200": 654.13,
+        "news": "iShares\u2019 Core ETF Has Been Beating the S&P 500 for 3 Years And Nobody\u2019s Talking About It"
     },
-    "updated_at": "2026-03-05T21:48:44Z"
+    "updated_at": "2026-03-06T21:39:57Z"
 }
