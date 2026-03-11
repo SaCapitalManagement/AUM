@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 677.18,
-        "rsi2": 44.76,
-        "sma200": 655.08,
-        "news": "FDRR Is Up 23% but Retirees Probably Don\u2019t Know What They\u2019re Actually Buying"
+        "last_close": 676.33,
+        "rsi2": 36.31,
+        "sma200": 655.57,
+        "news": "CarGurus Is Quietly Becoming the Auto Marketplace to Beat"
     },
-    "updated_at": "2026-03-10T21:41:41Z"
+    "updated_at": "2026-03-11T21:45:18Z"
 }
