@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 676.33,
-        "rsi2": 36.31,
-        "sma200": 655.57,
-        "news": "CarGurus Is Quietly Becoming the Auto Marketplace to Beat"
+        "last_close": 666.06,
+        "rsi2": 6.53,
+        "sma200": 656.03,
+        "news": "Link: Netflix simpler story without Warner Bros. Discovery deal"
     },
-    "updated_at": "2026-03-11T21:45:18Z"
+    "updated_at": "2026-03-12T21:46:05Z"
 }
