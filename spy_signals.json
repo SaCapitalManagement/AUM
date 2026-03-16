@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 662.29,
-        "rsi2": 4.07,
-        "sma200": 656.41,
-        "news": "Hedge Iran War Turmoil With These ETF Strategies"
+        "last_close": 669.03,
+        "rsi2": 59.07,
+        "sma200": 656.84,
+        "news": "Neocloud Stocks Skyrocket: Why IREN, CoreWeave, and MARA Holdings Are Rallying"
     },
-    "updated_at": "2026-03-13T21:46:13Z"
+    "updated_at": "2026-03-16T21:51:52Z"
 }
