@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 1,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 661.43,
-        "rsi2": 19.85,
-        "sma200": 657.66,
-        "news": "Muddy Waters Shorted SoFi \u2014 Here\u2019s What Keefe Bruyette Says Retail Investors Are Missing"
+        "last_close": 659.8,
+        "rsi2": 15.91,
+        "sma200": 658.02,
+        "news": "Energy stocks can\u2019t carry the entire market alone: Chart of the Day"
     },
-    "updated_at": "2026-03-18T21:47:26Z"
+    "updated_at": "2026-03-19T21:47:34Z"
 }
