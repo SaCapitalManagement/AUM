@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 0,
     "metrics": {
-        "last_close": 648.57,
-        "rsi2": 4.26,
-        "sma200": 658.31,
-        "news": "March Madness Sees The S&P 500 Master The Art Of 'The Head Fake'"
+        "last_close": 655.38,
+        "rsi2": 52.57,
+        "sma200": 656.85,
+        "news": "QQQ: Bullish Asymmetric Reward-to-Risk Here"
     },
-    "updated_at": "2026-03-20T21:41:46Z"
+    "updated_at": "2026-03-23T21:48:41Z"
 }
