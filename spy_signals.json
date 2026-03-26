@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
     "above_sma200": 0,
     "metrics": {
-        "last_close": 656.82,
-        "rsi2": 66.68,
-        "sma200": 657.51,
-        "news": "IVV vs. SPY: These Top S&P 500 ETFs Are Not the Same"
+        "last_close": 645.09,
+        "rsi2": 17.17,
+        "sma200": 657.77,
+        "news": "VDC Is Up Nearly 6% While the S&P 500 Sinks, and That Gap Is No Accident"
     },
-    "updated_at": "2026-03-25T21:51:44Z"
+    "updated_at": "2026-03-26T21:43:24Z"
 }
