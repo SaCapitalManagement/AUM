@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 1,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 0,
     "metrics": {
-        "last_close": 645.09,
-        "rsi2": 17.17,
-        "sma200": 657.77,
-        "news": "VDC Is Up Nearly 6% While the S&P 500 Sinks, and That Gap Is No Accident"
+        "last_close": 634.09,
+        "rsi2": 7.18,
+        "sma200": 657.96,
+        "news": "OEF Returned 314.83% Over 10 Years While SPY Managed 223.37%"
     },
-    "updated_at": "2026-03-26T21:43:24Z"
+    "updated_at": "2026-03-27T21:49:17Z"
 }
