@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 0,
     "metrics": {
-        "last_close": 631.97,
-        "rsi2": 5.86,
-        "sma200": 658.15,
-        "news": "This Options Spread Can Pay Off Up To $5,200 If The Market Weakens"
+        "last_close": 650.34,
+        "rsi2": 77.46,
+        "sma200": 658.41,
+        "news": "Had You Invested $1,000 in Micron or Western Digital 10 Years Ago, Here\u2019s How Much You\u2019d Have Today"
     },
-    "updated_at": "2026-03-30T21:54:22Z"
+    "updated_at": "2026-03-31T21:51:59Z"
 }
