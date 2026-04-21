@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 708.72,
-        "rsi2": 81.25,
-        "sma200": 663.68,
-        "news": "Small Cap Stocks Drag Russell 2000 Lower After Last Week\u2019s Impressive Run"
+        "last_close": 704.08,
+        "rsi2": 36.63,
+        "sma200": 664.1,
+        "news": "The AI-Enabled Wealth Transfer No One is Talking About"
     },
-    "updated_at": "2026-04-20T21:58:28Z"
+    "updated_at": "2026-04-21T21:56:14Z"
 }
