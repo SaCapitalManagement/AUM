@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 704.08,
-        "rsi2": 36.63,
-        "sma200": 664.1,
-        "news": "The AI-Enabled Wealth Transfer No One is Talking About"
+        "last_close": 711.21,
+        "rsi2": 76.42,
+        "sma200": 664.58,
+        "news": "Suze Orman Says Put 50% in VOO. Here\u2019s Why She\u2019s Right"
     },
-    "updated_at": "2026-04-21T21:56:14Z"
+    "updated_at": "2026-04-22T22:00:28Z"
 }
