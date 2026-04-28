@@ -26472,12 +26472,12 @@
   ],
   "stats": {
     "Drawdown": -49.66,
-    "Sharpe": 0.9,
-    "Expectancy": 10.03,
-    "NetProfit": 18981642.0,
-    "Trades": 717,
+    "Sharpe": 0.91,
+    "Expectancy": 10.14,
+    "NetProfit": 20342598.0,
+    "Trades": 719,
     "MAR": 0.45,
-    "PctWins": 56.21,
+    "PctWins": 56.61,
     "MaxExposure": 106.23
   },
   "extra": {
