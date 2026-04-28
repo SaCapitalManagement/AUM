@@ -1,14 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 690.67,
-        "rsi2": 21.99,
-        "sma200": 637.4,
-        "news":  "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Geopolitical Tensions Loom While Investors Still Await Fed Rate Cut"
-    }
-
+        "last_close": 715.17,
+        "rsi2": 83.16,
+        "sma200": 665.99,
+        "news": "S&P 500 Holding Pattern: Mag 7 Earnings Collide With Oil Surge and Fed Fears"
+    },
+    "updated_at": "2026-04-27T22:04:04Z"
 }
-
