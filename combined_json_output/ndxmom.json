@@ -26467,14 +26467,18 @@
     },
     {
       "Date": "4/24/26",
-      "Equity": "20442597.82"
+      "Equity": "20443238.52"
+    },
+    {
+      "Date": "4/27/26",
+      "Equity": "20341562.39"
     }
   ],
   "stats": {
     "Drawdown": -49.66,
-    "Sharpe": 0.91,
+    "Sharpe": 0.9,
     "Expectancy": 10.14,
-    "NetProfit": 20342598.0,
+    "NetProfit": 20241562.0,
     "Trades": 719,
     "MAR": 0.45,
     "PctWins": 56.61,
@@ -26483,6 +26487,6 @@
   "extra": {
     "sum_commission": 0.0,
     "sum_dividends": 173626.62000000002,
-    "avg_bars": 68.6481223922114
+    "avg_bars": 68.65785813630042
   }
 }
