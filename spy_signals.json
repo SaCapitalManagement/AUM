@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 711.69,
-        "rsi2": 38.79,
-        "sma200": 666.46,
-        "news": "When April Delivers 5% Gains, the Rest of the Year Has Never Been Negative. Here\u2019s What History Says About May"
+        "last_close": 711.58,
+        "rsi2": 37.52,
+        "sma200": 666.92,
+        "news": "S 500 ETFs Flows Surge as ARK Leads Outflows"
     },
-    "updated_at": "2026-04-28T22:09:02Z"
+    "updated_at": "2026-04-29T22:09:30Z"
 }
