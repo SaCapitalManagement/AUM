@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 711.58,
-        "rsi2": 37.52,
-        "sma200": 666.92,
-        "news": "S 500 ETFs Flows Surge as ARK Leads Outflows"
+        "last_close": 718.66,
+        "rsi2": 87.99,
+        "sma200": 667.43,
+        "news": "S&P 500 Rides Tech Earnings Wave Despite Inflation Warning Shot"
     },
-    "updated_at": "2026-04-29T22:09:30Z"
+    "updated_at": "2026-04-30T22:06:30Z"
 }
