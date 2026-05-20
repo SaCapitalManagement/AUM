@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 733.73,
-        "rsi2": 12.73,
-        "sma200": 674.48,
-        "news": "Most Retirees Skip Over Vanguard\u2019s $100 Billion VYM Despite Its 2.9 Percent Yield and Almost Zero Maintenance"
+        "last_close": 741.25,
+        "rsi2": 68.33,
+        "sma200": 675.06,
+        "news": "Small caps finally woke up \u2014 now they're testing traders again: Chart of the Day"
     },
-    "updated_at": "2026-05-19T22:22:28Z"
+    "updated_at": "2026-05-20T22:41:04Z"
 }
