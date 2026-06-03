@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 759.57,
-        "rsi2": 99.31,
-        "sma200": 679.87,
-        "news": "Best ETFs for H1 2026: Winners, Losers, and What to Watch"
+        "last_close": 754.24,
+        "rsi2": 23.55,
+        "sma200": 680.45,
+        "news": "Vanguard index product becomes first ETF to top $1 trillion in assets"
     },
-    "updated_at": "2026-06-02T23:06:41Z"
+    "updated_at": "2026-06-03T23:09:03Z"
 }
