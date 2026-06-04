@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 754.24,
-        "rsi2": 23.55,
-        "sma200": 680.45,
-        "news": "Vanguard index product becomes first ETF to top $1 trillion in assets"
+        "last_close": 757.09,
+        "rsi2": 57.9,
+        "sma200": 681.05,
+        "news": "Dow Hits Record High And S&P 500 Gains As Oil Slides, While Chip Weakness Weighs On Nasdaq \u2014 AVGO, UNH, META, PINS, RUM In Focus"
     },
-    "updated_at": "2026-06-03T23:09:03Z"
+    "updated_at": "2026-06-04T22:41:31Z"
 }
