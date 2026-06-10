@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 1,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 737.05,
-        "rsi2": 14.9,
-        "sma200": 682.63,
-        "news": "S&P 500, Nasdaq End Lower As Investors Take Breather From AI And Chips \u2014 AAPL, ASTS, APLD, RIVN, ZVRA In Focus"
+        "last_close": 725.43,
+        "rsi2": 4.05,
+        "sma200": 683.06,
+        "news": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free"
     },
-    "updated_at": "2026-06-09T22:44:58Z"
+    "updated_at": "2026-06-10T22:54:51Z"
 }
