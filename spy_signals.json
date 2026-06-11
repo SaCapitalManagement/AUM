@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 725.43,
-        "rsi2": 4.05,
-        "sma200": 683.06,
-        "news": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free"
+        "last_close": 737.76,
+        "rsi2": 62.3,
+        "sma200": 683.56,
+        "news": "Stocks Supported by a Rebound in Chipmakers and AI Stocks"
     },
-    "updated_at": "2026-06-10T22:54:51Z"
+    "updated_at": "2026-06-11T22:54:24Z"
 }
