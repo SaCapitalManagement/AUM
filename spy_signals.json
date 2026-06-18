@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 740.96,
-        "rsi2": 27.37,
-        "sma200": 685.68,
-        "news": "Which S&P 500 ETF Is the Better Buy: iShares' IVV or State Street's SPY?"
+        "last_close": 746.74,
+        "rsi2": 57.12,
+        "sma200": 686.24,
+        "news": "S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal \u2014 SPCX, AMZN, ONDS, NFLX, TTWO In Focus"
     },
-    "updated_at": "2026-06-17T22:50:45Z"
+    "updated_at": "2026-06-18T23:00:48Z"
 }
