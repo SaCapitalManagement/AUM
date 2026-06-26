@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 734.3,
-        "rsi2": 32.19,
-        "sma200": 686.41,
-        "news": "Own 100 Shares of SPY? Here\u2019s How to Earn High Income Selling Covered Calls"
+        "last_close": 728.99,
+        "rsi2": 10.62,
+        "sma200": 686.84,
+        "news": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech"
     },
-    "updated_at": "2026-06-25T22:41:50Z"
+    "updated_at": "2026-06-26T22:21:12Z"
 }
