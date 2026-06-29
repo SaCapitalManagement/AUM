@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 728.99,
-        "rsi2": 10.62,
-        "sma200": 686.84,
-        "news": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech"
+        "last_close": 741.0,
+        "rsi2": 77.83,
+        "sma200": 687.32,
+        "news": "The Tool Giving Independent Advisors an Edge Over Big Banks"
     },
-    "updated_at": "2026-06-26T22:21:12Z"
+    "updated_at": "2026-06-29T22:17:11Z"
 }
