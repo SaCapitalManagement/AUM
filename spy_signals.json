@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 745.76,
-        "rsi2": 75.97,
-        "sma200": 688.28,
-        "news": "S&P 500, Nasdaq End Lower As Investors Continue Rotation Out Of Tech And Chipmakers \u2014  WMT, META, GM, KR, QCOM In Focus"
+        "last_close": 744.78,
+        "rsi2": 60.85,
+        "sma200": 688.74,
+        "news": "The 41-Day Dividend Trap That Quietly Erodes SPY Returns Every Quarter"
     },
-    "updated_at": "2026-07-01T22:37:45Z"
+    "updated_at": "2026-07-02T22:16:13Z"
 }
