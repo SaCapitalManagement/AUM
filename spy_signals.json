@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 744.78,
-        "rsi2": 60.85,
-        "sma200": 688.74,
-        "news": "JEPI Investors Missed 13.21% in Gains While Paying Hidden Taxes on \u2018Monthly\u2019 Income"
+        "last_close": 751.28,
+        "rsi2": 89.25,
+        "sma200": 689.23,
+        "news": "S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs \u2014 MSFT, NVDA, LMT, AVGO, SPCX In Focus"
     },
-    "updated_at": "2026-07-03T22:13:26Z"
+    "updated_at": "2026-07-06T22:22:31Z"
 }
