@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 747.71,
-        "rsi2": 49.67,
-        "sma200": 689.71,
-        "news": "John West: Perfect Market Timing Is Still a Losing Bet"
+        "last_close": 745.4,
+        "rsi2": 31.56,
+        "sma200": 690.16,
+        "news": "JEPI vs. JEPQ: Which Is the Better Buy in July?"
     },
-    "updated_at": "2026-07-07T22:19:59Z"
+    "updated_at": "2026-07-08T22:14:46Z"
 }
