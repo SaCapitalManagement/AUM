@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "rsi_2_below_30": 1,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 750.72,
-        "rsi2": 34.64,
-        "sma200": 693.01,
-        "news": "Analyst: \u2018We\u2019re In One Of The Most Dangerous Times In History\u2019 For Passive Investors"
+        "last_close": 743.29,
+        "rsi2": 11.58,
+        "sma200": 693.44,
+        "news": "Kevin O\u2019Leary Says Investing $100 a Week Will Make You a Millionaire by Retirement"
     },
-    "updated_at": "2026-07-16T22:12:20Z"
+    "updated_at": "2026-07-17T22:02:43Z"
 }
