@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 742.09,
-        "rsi2": 9.53,
-        "sma200": 693.85,
-        "news": "Are You Paying A Fair Price For What's Inside VOO?"
+        "last_close": 748.28,
+        "rsi2": 67.98,
+        "sma200": 694.27,
+        "news": "Netflix \u201cIs Not a Broken Company\u201d and Trades At Just 19x Earnings. Jim Cramer Says Start Buying"
     },
-    "updated_at": "2026-07-20T22:09:22Z"
+    "updated_at": "2026-07-21T22:09:31Z"
 }
