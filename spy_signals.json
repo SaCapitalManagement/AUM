@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "rsi_2_below_30": 1,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 747.41,
-        "rsi2": 57.53,
-        "sma200": 694.69,
-        "news": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens."
+        "last_close": 738.18,
+        "rsi2": 13.5,
+        "sma200": 695.06,
+        "news": "First Trust Launches DGJL, a New Buffer ETF With a Fixed 9.37% Return"
     },
-    "updated_at": "2026-07-22T22:13:53Z"
+    "updated_at": "2026-07-23T22:11:14Z"
 }
