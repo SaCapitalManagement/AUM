@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 738.18,
-        "rsi2": 13.5,
-        "sma200": 695.06,
-        "news": "First Trust Launches DGJL, a New Buffer ETF With a Fixed 9.37% Return"
+        "last_close": 738.93,
+        "rsi2": 23.07,
+        "sma200": 695.43,
+        "news": "IGV ETF Is A More Focused Bet Than You Think"
     },
-    "updated_at": "2026-07-23T22:11:14Z"
+    "updated_at": "2026-07-24T22:14:58Z"
 }
