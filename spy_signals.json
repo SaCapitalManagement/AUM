@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 739.09,
-        "rsi2": 24.84,
-        "sma200": 695.43,
-        "news": "What Is The Growth In QQQ Actually Costing You?"
+        "last_close": 740.86,
+        "rsi2": 63.22,
+        "sma200": 696.17,
+        "news": "Why Investors Should Wait For Meta\u2019s Post Earnings Dip"
     },
-    "updated_at": "2026-07-27T22:14:41Z"
+    "updated_at": "2026-07-28T22:13:59Z"
 }
