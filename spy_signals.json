@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 729.46,
-        "rsi2": 8.51,
-        "sma200": 696.49,
-        "news": "Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee"
+        "last_close": 741.69,
+        "rsi2": 67.97,
+        "sma200": 696.96,
+        "news": "S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks  \u2014 ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus"
     },
-    "updated_at": "2026-07-29T22:09:08Z"
+    "updated_at": "2026-07-30T22:15:47Z"
 }
