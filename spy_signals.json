@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 769.79,
-        "rsi2": 85.11,
-        "sma200": 699.04,
-        "news": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Amid Corporate Earnings, Hormuz Reopening Hopes"
+        "last_close": 768.56,
+        "rsi2": 71.46,
+        "sma200": 699.59,
+        "news": "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course \u2014 SOUN, GOOGL, SPCX, NVDA In Focus"
     },
-    "updated_at": "2026-08-05T22:17:38Z"
+    "updated_at": "2026-08-07T01:02:08Z"
 }
