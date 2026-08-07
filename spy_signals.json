@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 768.56,
-        "rsi2": 71.46,
-        "sma200": 699.59,
-        "news": "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course \u2014 SOUN, GOOGL, SPCX, NVDA In Focus"
+        "last_close": 773.26,
+        "rsi2": 87.18,
+        "sma200": 700.13,
+        "news": "The 20 Most Actively Traded ETFs"
     },
-    "updated_at": "2026-08-07T01:02:08Z"
+    "updated_at": "2026-08-07T21:51:25Z"
 }
