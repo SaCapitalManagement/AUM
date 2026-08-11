@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 773.03,
-        "rsi2": 82.72,
-        "sma200": 700.67,
-        "news": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks"
+        "last_close": 770.56,
+        "rsi2": 39.42,
+        "sma200": 701.21,
+        "news": "SPYI\u2019s 11.7% Yield Hides $2,927.50 Annual Fee Gap Versus SPY"
     },
-    "updated_at": "2026-08-10T21:53:19Z"
+    "updated_at": "2026-08-11T21:58:36Z"
 }
