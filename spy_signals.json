@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 770.56,
-        "rsi2": 39.42,
-        "sma200": 701.21,
-        "news": "SPYI\u2019s 11.7% Yield Hides $2,927.50 Annual Fee Gap Versus SPY"
+        "last_close": 772.49,
+        "rsi2": 66.68,
+        "sma200": 701.74,
+        "news": "The 2 Factors That Will Decide GAIQ\u2019s Next 12 Months as AI Capex Spending Slows"
     },
-    "updated_at": "2026-08-11T21:58:36Z"
+    "updated_at": "2026-08-12T21:57:05Z"
 }
