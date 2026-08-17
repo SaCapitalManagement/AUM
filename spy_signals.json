@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "rsi_2_below_30": 1,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 776.34,
-        "rsi2": 64.25,
-        "sma200": 702.75,
-        "news": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day"
+        "last_close": 772.67,
+        "rsi2": 26.96,
+        "sma200": 703.21,
+        "news": "FactSet\u2019s Kashner: Active Investors Prefer Performance to Cost"
     },
-    "updated_at": "2026-08-14T21:35:24Z"
+    "updated_at": "2026-08-17T21:35:01Z"
 }
