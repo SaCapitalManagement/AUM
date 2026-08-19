@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 767.45,
-        "rsi2": 10.17,
-        "sma200": 703.64,
-        "news": "Why Does the JEPI ETF Pay Less Than It Did in January When Its Sister Fund Pays More?"
+        "last_close": 769.06,
+        "rsi2": 35.1,
+        "sma200": 704.11,
+        "news": "A Top Strategist Says Buy \u201cAnything but the S&P 500\u201d as Small Caps Quietly Steal the Lead"
     },
-    "updated_at": "2026-08-18T21:33:52Z"
+    "updated_at": "2026-08-19T21:35:14Z"
 }
