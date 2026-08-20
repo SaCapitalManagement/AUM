@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 769.06,
-        "rsi2": 35.1,
-        "sma200": 704.11,
-        "news": "A Top Strategist Says Buy \u201cAnything but the S&P 500\u201d as Small Caps Quietly Steal the Lead"
+        "last_close": 762.6,
+        "rsi2": 10.88,
+        "sma200": 704.54,
+        "news": "How Much of Your Portfolio Should Actually Be in FTXL"
     },
-    "updated_at": "2026-08-19T21:35:14Z"
+    "updated_at": "2026-08-20T21:37:48Z"
 }
