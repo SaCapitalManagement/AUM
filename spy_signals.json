@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 762.6,
-        "rsi2": 10.88,
-        "sma200": 704.54,
-        "news": "How Much of Your Portfolio Should Actually Be in FTXL"
+        "last_close": 765.72,
+        "rsi2": 46.52,
+        "sma200": 704.98,
+        "news": "You Do Not Need $1 Million to Retire: These 3 ETFs Pay About $49,000 a Year on $600,000"
     },
-    "updated_at": "2026-08-20T21:37:48Z"
+    "updated_at": "2026-08-21T21:34:32Z"
 }
