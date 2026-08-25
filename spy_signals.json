@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 763.47,
-        "rsi2": 29.5,
-        "sma200": 705.45,
-        "news": "A Two-Year Market Run Let Them Retire at 62. Claiming Social Security to Protect the Gains Could Cost Them for Life."
+        "last_close": 765.91,
+        "rsi2": 60.69,
+        "sma200": 705.92,
+        "news": "Jane Street turns bullish on volatile AI stock"
     },
-    "updated_at": "2026-08-24T21:38:56Z"
+    "updated_at": "2026-08-25T21:38:16Z"
 }
