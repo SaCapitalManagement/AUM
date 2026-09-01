@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 767.05,
-        "rsi2": 30.97,
-        "sma200": 707.87,
-        "news": "S&P500, Dow End Lower On US-Iran Flare-Up, While Dow Records Fifth Straight Month Of Gains \u2014 NVDA, META, AON, MSTR, TSLA In Focus"
+        "last_close": 761.78,
+        "rsi2": 9.69,
+        "sma200": 708.29,
+        "news": "These ETFs Generate the Most Revenue"
     },
-    "updated_at": "2026-09-01T00:34:01Z"
+    "updated_at": "2026-09-01T23:15:18Z"
 }
