@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 769.35,
-        "rsi2": 59.51,
-        "sma200": 707.42,
-        "news": "$40 Trillion US Debt Is 72 Times Mount Everest in Cash: Market Strategist Says the Number Looks \u2018Scary\u2019 Until You See How Much Americans Own"
+        "last_close": 767.05,
+        "rsi2": 30.97,
+        "sma200": 707.87,
+        "news": "S&P500, Dow End Lower On US-Iran Flare-Up, While Dow Records Fifth Straight Month Of Gains \u2014 NVDA, META, AON, MSTR, TSLA In Focus"
     },
-    "updated_at": "2026-08-29T03:08:32Z"
+    "updated_at": "2026-09-01T00:34:01Z"
 }
