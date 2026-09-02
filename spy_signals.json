@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 761.78,
-        "rsi2": 9.69,
-        "sma200": 708.29,
-        "news": "These ETFs Generate the Most Revenue"
+        "last_close": 765.16,
+        "rsi2": 52.0,
+        "sma200": 708.78,
+        "news": "Lucid\u2019s CEO Promised a $1.4 Billion Turnaround, Then This Happened"
     },
-    "updated_at": "2026-09-01T23:15:18Z"
+    "updated_at": "2026-09-02T23:16:13Z"
 }
