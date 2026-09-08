@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "rsi_2_below_30": 1,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 770.19,
-        "rsi2": 56.24,
-        "sma200": 709.87,
-        "news": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector"
+        "last_close": 765.96,
+        "rsi2": 28.66,
+        "sma200": 710.43,
+        "news": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus"
     },
-    "updated_at": "2026-09-07T23:27:26Z"
+    "updated_at": "2026-09-08T23:20:46Z"
 }
