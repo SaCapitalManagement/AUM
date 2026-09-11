@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 757.83,
-        "rsi2": 7.26,
-        "sma200": 711.5,
-        "news": "S&P 500, Dow, Nasdaq End Lower As Surging Oil Raises Odds For A September Rate Hike \u2014 ORCL, ADBE, M, NVDA, UBER In Focus"
+        "last_close": 764.29,
+        "rsi2": 63.18,
+        "sma200": 712.06,
+        "news": "SCHD and JEPI Both Pay You to Wait, Yet Only One Raises Its Payout Every Year"
     },
-    "updated_at": "2026-09-10T23:06:07Z"
+    "updated_at": "2026-09-11T23:12:09Z"
 }
