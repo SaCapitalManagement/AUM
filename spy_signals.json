@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
+    "rsi_2_below_30": 0,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 754.05,
-        "rsi2": 11.63,
-        "sma200": 713.39,
-        "news": "Buffer ETFs Promise 100 Percent Downside Protection. Here Is How That Actually Works and What You Give Up"
+        "last_close": 762.6,
+        "rsi2": 73.62,
+        "sma200": 713.81,
+        "news": "ETF Oasis at Future Proof: Tuesday Highlights"
     },
-    "updated_at": "2026-09-16T23:37:47Z"
+    "updated_at": "2026-09-17T23:31:07Z"
 }
