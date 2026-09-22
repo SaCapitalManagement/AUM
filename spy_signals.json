@@ -2,12 +2,12 @@
     "ticker": "SPY",
     "rsi_2_below_30": 0,
     "three_lower_closes": 0,
-    "above_sma200": 0,
+    "above_sma200": 1,
     "metrics": {
-        "last_close": NaN,
-        "rsi2": 77.28,
-        "sma200": NaN,
-        "news": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus"
+        "last_close": 773.38,
+        "rsi2": 93.31,
+        "sma200": 713.46,
+        "news": "The Market Is Near Another All-Time High and You\u2019re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway"
     },
-    "updated_at": "2026-09-22T00:02:29Z"
+    "updated_at": "2026-09-22T23:34:53Z"
 }
