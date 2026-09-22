@@ -2,12 +2,12 @@
     "ticker": "SPY",
     "rsi_2_below_30": 0,
     "three_lower_closes": 0,
-    "above_sma200": 1,
+    "above_sma200": 0,
     "metrics": {
-        "last_close": 761.69,
-        "rsi2": 64.06,
-        "sma200": 714.24,
-        "news": "$1 Million in VOO Pays $871 a Month, and Covering the Gap Means Selling Shares the IRS Taxes"
+        "last_close": NaN,
+        "rsi2": 77.28,
+        "sma200": NaN,
+        "news": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus"
     },
-    "updated_at": "2026-09-18T23:14:20Z"
+    "updated_at": "2026-09-22T00:02:29Z"
 }
