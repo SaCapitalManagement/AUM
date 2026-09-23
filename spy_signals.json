@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 773.38,
-        "rsi2": 93.31,
-        "sma200": 713.46,
-        "news": "The Market Is Near Another All-Time High and You\u2019re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway"
+        "last_close": 767.81,
+        "rsi2": 38.4,
+        "sma200": 713.92,
+        "news": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade"
     },
-    "updated_at": "2026-09-22T23:34:53Z"
+    "updated_at": "2026-09-23T23:37:30Z"
 }
