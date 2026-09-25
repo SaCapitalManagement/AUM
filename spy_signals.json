@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 767.18,
-        "rsi2": 33.89,
-        "sma200": 714.36,
-        "news": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers"
+        "last_close": 771.35,
+        "rsi2": 74.13,
+        "sma200": 714.84,
+        "news": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict \u2014 META, COST, MSFT, CRWD, SKHY In Focus"
     },
-    "updated_at": "2026-09-24T23:51:11Z"
+    "updated_at": "2026-09-25T23:55:58Z"
 }
