@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
     "above_sma200": 0,
     "metrics": {
         "last_close": NaN,
-        "rsi2": 74.13,
+        "rsi2": 27.7,
         "sma200": NaN,
-        "news": "I Make $150,000 a Year, But It Feels Like I\u2019m Just Middle Class in a World Full of Rich People"
+        "news": ""
     },
-    "updated_at": "2026-09-29T00:57:00Z"
+    "updated_at": "2026-09-30T00:21:11Z"
 }
