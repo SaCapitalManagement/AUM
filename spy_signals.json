@@ -2,12 +2,12 @@
     "ticker": "SPY",
     "rsi_2_below_30": 0,
     "three_lower_closes": 0,
-    "above_sma200": 1,
+    "above_sma200": 0,
     "metrics": {
-        "last_close": 779.09,
+        "last_close": NaN,
         "rsi2": 97.18,
-        "sma200": 718.13,
+        "sma200": NaN,
         "news": ""
     },
-    "updated_at": "2026-10-07T00:37:29Z"
+    "updated_at": "2026-10-08T00:56:08Z"
 }
