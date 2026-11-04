@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
-    "above_sma200": 1,
+    "three_lower_closes": 0,
+    "above_sma200": 0,
     "metrics": {
-        "last_close": 752.1,
+        "last_close": NaN,
         "rsi2": 6.55,
-        "sma200": 726.31,
-        "news": ""
+        "sma200": NaN,
+        "news": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day \u2014  META, AAPL, AMD, SKHY In Focus"
     },
-    "updated_at": "2026-11-03T02:52:22Z"
+    "updated_at": "2026-11-04T01:15:49Z"
 }
