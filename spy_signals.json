@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
+    "rsi_2_below_30": 1,
     "three_lower_closes": 0,
-    "above_sma200": 0,
+    "above_sma200": 1,
     "metrics": {
-        "last_close": NaN,
-        "rsi2": 82.97,
-        "sma200": NaN,
-        "news": "Market Jitters? How Buffer ETFs Can Help Protect Your Portfolio"
+        "last_close": 735.29,
+        "rsi2": 24.57,
+        "sma200": 727.65,
+        "news": "Dave Ramsey Says You\u2019ll \u201cNever Touch\u201d Your Retirement Principal If You Withdraw Less Than 12%. Here\u2019s the Catch"
     },
-    "updated_at": "2026-11-06T01:29:31Z"
+    "updated_at": "2026-11-07T00:51:31Z"
 }
