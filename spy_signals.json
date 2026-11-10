@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 1,
     "metrics": {
-        "last_close": 735.29,
-        "rsi2": 24.57,
-        "sma200": 727.65,
-        "news": "Dave Ramsey Says You\u2019ll \u201cNever Touch\u201d Your Retirement Principal If You Withdraw Less Than 12%. Here\u2019s the Catch"
+        "last_close": 752.69,
+        "rsi2": 69.71,
+        "sma200": 727.99,
+        "news": "Winmark Stock Is Down More Than 30% in 2026. Here\u2019s What $1,000 Became in 10 Years"
     },
-    "updated_at": "2026-11-07T00:51:31Z"
+    "updated_at": "2026-11-10T03:27:48Z"
 }
