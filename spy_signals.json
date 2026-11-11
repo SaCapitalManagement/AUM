@@ -2,12 +2,12 @@
     "ticker": "SPY",
     "rsi_2_below_30": 0,
     "three_lower_closes": 0,
-    "above_sma200": 1,
+    "above_sma200": 0,
     "metrics": {
-        "last_close": 752.69,
+        "last_close": NaN,
         "rsi2": 69.71,
-        "sma200": 727.99,
-        "news": "Winmark Stock Is Down More Than 30% in 2026. Here\u2019s What $1,000 Became in 10 Years"
+        "sma200": NaN,
+        "news": "His Wife\u2019s 401(k) Outgrew His. A 3% vs. 12% Contribution Rate Shows Why"
     },
-    "updated_at": "2026-11-10T03:27:48Z"
+    "updated_at": "2026-11-11T01:11:53Z"
 }
