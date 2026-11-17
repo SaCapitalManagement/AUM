@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
-    "above_sma200": 0,
+    "rsi_2_below_30": 1,
+    "three_lower_closes": 1,
+    "above_sma200": 1,
     "metrics": {
-        "last_close": NaN,
-        "rsi2": 62.52,
-        "sma200": NaN,
-        "news": "Will ETF Buying Change Meta Stock Narrative"
+        "last_close": 739.95,
+        "rsi2": 9.95,
+        "sma200": 729.58,
+        "news": "NVIDIA After Jensen: What's Next for the AI Trade?"
     },
-    "updated_at": "2026-11-14T01:24:42Z"
+    "updated_at": "2026-11-17T03:44:09Z"
 }
