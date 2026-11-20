@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 1,
-    "three_lower_closes": 1,
-    "above_sma200": 1,
+    "three_lower_closes": 0,
+    "above_sma200": 0,
     "metrics": {
-        "last_close": 730.2,
+        "last_close": NaN,
         "rsi2": 4.37,
-        "sma200": 730.02,
-        "news": "Two Retirees Each Hold $500,000 in a 401(k) Index Fund as Nvidia\u2019s CFO Takes the Wheel. One Has About $28,950 Riding on a Single Stock. The Other Has About $1,000"
+        "sma200": NaN,
+        "news": "2 Newer Monthly Paycheck ETFs vs. a Veteran: Does a Short Track Record Matter?"
     },
-    "updated_at": "2026-11-19T02:29:11Z"
+    "updated_at": "2026-11-20T02:14:00Z"
 }
