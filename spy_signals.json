@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
-    "rsi_2_below_30": 1,
+    "rsi_2_below_30": 0,
     "three_lower_closes": 0,
     "above_sma200": 0,
     "metrics": {
-        "last_close": NaN,
-        "rsi2": 1.19,
-        "sma200": NaN,
-        "news": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment \u2014   ANT, NVDA, TTWO, ZS, CRWD In Focus"
+        "last_close": 722.29,
+        "rsi2": 64.52,
+        "sma200": 730.47,
+        "news": "Why stocks had their best Monday since 2020"
     },
-    "updated_at": "2026-11-21T02:07:30Z"
+    "updated_at": "2026-11-24T05:16:57Z"
 }
