@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 0,
+    "three_lower_closes": 1,
     "above_sma200": 0,
     "metrics": {
-        "last_close": 718.78,
-        "rsi2": 56.64,
-        "sma200": 730.62,
-        "news": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia\u2019s Governance Issues And Talks Of Fresh Import Tariffs  \u2014 NVDA, DELL, TSLA, TGTX In Focus"
+        "last_close": 716.7,
+        "rsi2": 49.47,
+        "sma200": 730.77,
+        "news": "Nvidia is cheap on paper, so why won't the market buy it?"
     },
-    "updated_at": "2026-11-25T04:05:29Z"
+    "updated_at": "2026-11-26T03:29:48Z"
 }
