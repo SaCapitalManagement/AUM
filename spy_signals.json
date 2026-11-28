@@ -1,13 +1,13 @@
 {
     "ticker": "SPY",
     "rsi_2_below_30": 0,
-    "three_lower_closes": 1,
+    "three_lower_closes": 0,
     "above_sma200": 0,
     "metrics": {
-        "last_close": 716.7,
-        "rsi2": 49.47,
-        "sma200": 730.77,
-        "news": "Dave Ramsey Is 66 and Owns Zero Bonds. Should Retirees Follow Him?"
+        "last_close": 728.32,
+        "rsi2": 79.06,
+        "sma200": 730.98,
+        "news": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback \u2014 VZ, ANT, ADBE, TSLA In Focus"
     },
-    "updated_at": "2026-11-27T03:36:06Z"
+    "updated_at": "2026-11-28T03:14:32Z"
 }
